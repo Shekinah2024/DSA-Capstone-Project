@@ -1,6 +1,6 @@
 # DSA Data Analysis Capstone Project
 
-## Case Study 1: Amazon Product Review Analysis
+## 1: Amazon Product Review Analysis
 
 ### Company Overview
 You are working as a Junior Data Analyst at RetailTech Insights, a company that provides
@@ -12,7 +12,9 @@ guide product improvement, marketing strategies, and customer engagement.
 
 Using pivot tables to analyze and a dashboard to vissualise: [Download Here](https://docs.google.com/spreadsheets/d/1rL3UZGy86H5PlwRFcNljf-ksL7Ac5O2M/edit?usp=sharing&ouid=104006538631170208157&rtpof=true&sd=true).
 
-### Palmora Group HR Analysis
+## 2. Palmora Group HR Analysis
+
+### Company Overview
 
 The Palmoria Group, a manufacturing company based in Nigeria, is embroiled in issues
 bordering on gender inequality in its 3 regions. Unfortunately, the media recently
@@ -29,4 +31,4 @@ future of gender equality in Palmoria lies in your hands” – the exact words 
 Shofoluwe before he handed the data to you.
 
 We are to analyse the company data and generate insights that the Palmoria management
-team would need to address. [Click Here](https://drive.google.com/file/d/1QOPMsNhd6Z56XGuYfOe6FumsQpp1Kz1z/view?usp=sharing)
+team would need to address. [Click Here](https://drive.google.com/file/d/1QOPMsNhd6Z56XGuYfOe6FumsQpp1Kz1z/view?usp=sharing) to view.
